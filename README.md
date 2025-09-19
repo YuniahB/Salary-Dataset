@@ -1,4 +1,4 @@
-# Salary-Dataset
+# Salary-Prediction-Glam
 Salary Dataset in CSV (Simple linear regression).
 Dataset Validation
 File Exists: True → The dataset was found and loaded.
